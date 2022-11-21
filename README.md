@@ -4,4 +4,4 @@ http://geo.correo.com.uy/serviciosv2/CodigoPostal
 
 
 Use:
-Get_postal_code(dep='MONTEVIDEO', loc='MONTEVIDEO', calle)
+GetPostalCodes(dep='MONTEVIDEO', loc='MONTEVIDEO', calle)
