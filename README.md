@@ -1,2 +1,7 @@
 # CPUruguay
-obtiene los codigos postales de Uruguay
+get uruguay postal codes in python
+http://geo.correo.com.uy/serviciosv2/CodigoPostal
+
+
+Use:
+Get_postal_code(dep='MONTEVIDEO', loc='MONTEVIDEO', calle)
