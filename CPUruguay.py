@@ -1,7 +1,9 @@
+import json
+
 import requests
 
 
-def GetPostalCodes(dep='MONTEVIDEO', loc='MONTEVIDEO', calle):
+def GetPostalCodes(calle, dep='MONTEVIDEO', loc='MONTEVIDEO'):
     """
     Obtengo datos de codigos postales.
 
